@@ -1,0 +1,18 @@
+
+  "meta": {
+    "version": "1.0.0",
+    "name": "Stealth survie (Minecraft 1.18.2)",
+    "description": "Stealth survie Running Minecraft 1.18.2 (Forge v40.1.52)",
+    "address": "149.202.89.230:25825",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "40.1.52"
+  }
+}
