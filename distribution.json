@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "clientId": "593014634873618442",
     "smallImageText": "Stealth survie",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "smallImageKey": "test"
   },
   "servers": [
     {
@@ -12,13 +12,13 @@
       "name": "Stealth survie (Minecraft 1.18.2)",
       "description": "Stealth Running Minecraft 1.18.2 (Forge v40.1.52)",
       "icon": null,
-      "version": "1.2.0",
+      "version": "1.0.0",
       "address": "149.202.89.230:25825",
       "minecraftVersion": "1.18.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "593014634873618442",
+        "largeImageText": "Stealth survie",
+        "largeImageKey": "test"
       },
       "mainServer": false,
       "autoconnect": true,
